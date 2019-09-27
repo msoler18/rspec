@@ -1,4 +1,4 @@
-require 'string_analyzer'
+require './string_analyzer'
 
 describe StringAnalyzer do
   
